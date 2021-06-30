@@ -1,0 +1,14 @@
+.bo-progress + .bo-progress {
+  margin-top: 10px;
+}
+
+.bo-progress-bar {
+  border-radius: 4px;
+  background: #eee;
+  overflow: hidden;
+}
+
+.bo-progress-bar-inner {
+  height: 4px;
+  background: #22C55E;
+}
